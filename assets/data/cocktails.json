@@ -1,0 +1,300 @@
+[
+    {
+        "name": "Mojito",
+        "description": "Cocktail traditionnel de la cuisine cubaine et de la culture de Cuba, à base de rhum, de soda, de citron vert, et de feuilles de menthe fraîche.",
+        "nb_person": 8,
+        "recipe": [
+            "1. Verser le rhum, le sirop de sucre de canne et l'angostura dans un récipient d'au moins 1,5L de contenance.",
+            "2. Laver les citrons verts et la menthe. Couper les citrons verts en quartiers sur une assiette afin de récupérer le jus pour ajouter au récipient de rhum.",
+            "3. Dans un mortier, verser le sucre puis les feuilles de menthe et les quartier de citrons. Écraser au pilon les citrons verts sur la menthe et le sucre roux, placer le tout avec le rhum et bien mélanger.",
+            "4. Réserver la préparation au réfrigérateur au moins 2 heures avant la dégustation.",
+            "5. Au moment de servir, verser 1/3 de préparation au rhum et 2/3 de perrier dans chaque verre.",
+            "6. Ajouter un peu de glace pillée ou glaçons et déguster."
+        ],
+        "ingredients": {
+            "Bon rhum": "70cl",
+            "Sirop de sucre de canne": "20cl",
+            "Angostura (facultatif)": "1cl",
+            "Citrons verts": "7",
+            "Menthe fraiche": "1 gros bouquet",
+            "Sucre de canne roux": "70g",
+            "Eau gazeuse": "2L"
+        }
+    },
+    {
+        "name": "Punch exotique",
+        "description": "Le punch, ou ponch traditionnellement appelé planteur dans les Antilles françaises, est un cocktail contenant la plupart du temps des fruits en morceaux et le jus de ces fruits.",
+        "nb_person": 10,
+        "recipe": [
+            "1. Réaliser la recette dans un grand récipient.",
+            "2. Le mélange se prépare entre 4 heures à 2 jours avant d'être consommé.",
+            "3. Fendez les deux gousses de vanille, mettez-les avec tous les autres ingrédients dans un grand récipient et laisser reposer.",
+            "4. Le jour de la consommation, ajuster le goût avec un complément de sucre de canne si trop acide ou de jus d'orange ou de pamplemousse si trop sucré.",
+            "5. Laissez à disposition sirop de citron et sirop de sucre de canne selon les goûts et n'ajoutez pas de glace, ça tue le punch !",
+            "6. Eventuellement, des tranches d'orange à placer sur le bord du verre."
+        ],
+        "ingredients": {
+            "Rhum blanc": "50cl",
+            "Rhum ambré": "20cl",
+            "Sirop de sucre de canne": "10cl",
+            "Jus d'orange": "2L",
+            "Jus de pamplemousse": "50cl",
+            "Jus de fruits exotiques": "50cl",
+            "Gousse de vanille": "1"
+        }
+    },
+    {
+        "name": "Piña Colada",
+        "description": "La piña colada est un cocktail officiel de l'IBA, à base de rhum, jus d'ananas et crème de noix de coco, originaire de l’île de Porto Rico des grandes Antilles de la mer des Caraïbes, dont elle est déclarée boisson nationale depuis 1978.",
+        "nb_person": 8,
+        "recipe": [
+            "1. Dans un blender, versez tous les ingrédients avec quelques glaçons et mixez le tout.",
+            "2. Versez dans le verre et dégustez."
+        ],
+        "ingredients": {
+            "Lait de coco": "32cl",
+            "Rhum blanc": "32cl",
+            "Rhum ambré": "16cl",
+            "Jus d'ananas": "96cl"
+        }
+    },
+    {
+        "name": "Spritz",
+        "description": "Le spritz est un cocktail alcoolisé largement consommé en apéritif dans les grandes villes de la Vénétie et du Frioul-Vénétie Julienne, et également répandu dans toute l'Italie.",
+        "nb_person": 1,
+        "recipe": [
+            "1. Réalisez la recette Spritz directement dans le verre.",
+            "2. Dans un verre à vin rempli aux trois quarts de glaçons, versez 3 cl de vin blanc type prosecco.",
+            "3. Ajoutez alors 2 cl d'Aperol ou de Campari.",
+            "4. Complétez avec un trait d'eau de Seltz ou Schweppes Tonic Original.",
+            "5. Mélangez bien le tout à l'aide d'une cuillère à mélange pour faire remonter délicatement l'Aperol ou le Campari.",
+            "6. Plongez une rondelle d'orange."
+        ],
+        "ingredients": {
+            "Aperol ou Campari": "2cl",
+            "Vin blanc pétillant type prosecco": "3cl",
+            "Eau de Seltz ou Schweppes Tonic Original": "1 trait",
+            "Orange": "1 rondelle par verre"
+        }
+    },
+    {
+        "name": "Sex on the Beach",
+        "description": "Le Sex on the Beach est un cocktail alcoolisé contenant de la vodka, du Schnaps à la pêche, du jus d'orange et du jus de canneberge. Il s'agit d'un cocktail officiel de l'Association internationale des barmen.",
+        "nb_person": 8,
+        "recipe": [
+            "1. Mettez les ingrédients avec quelques glaçons dans un shaker et secouez",
+            "2. Versez sur des glaçons dans un verre à long drink."
+        ],
+        "ingredients": {
+            "Vodka": "24cl",
+            "Liqueur de pêche": "24cl",
+            "Jus d'ananas": "48cl",
+            "Jus de cramberry": "80cl"
+        }
+    },
+    {
+        "name": "Blue Lagoon",
+        "description": "Le Blue Lagoon est un cocktail à base de vodka, de curaçao bleu et de jus de citron. Il est aussi appelé le « lagon bleu » par sa traduction. Il fut créé par Andy MacElhone au Harry's New York Bar à Paris, en 1960.",
+        "nb_person": 8,
+        "recipe": [
+            "1. Verser les glaçons dans un shaker puis ajouter le reste des ingrédients.",
+            "2. Shaker pendant 2-3 minutes, jusqu'à ce que les glaçons aient disparu. Servir"
+        ],
+        "ingredients": {
+            "Curaçao": "24cl",
+            "Vodka": "32cl",
+            "Citron (son jus)": "16cl"
+        }
+    },
+    {
+        "name": "Cosmopolitan",
+        "description": "Le Cosmopolitan est un cocktail de couleur rose, classique des cocktails officiel de l'IBA, à base de vodka, de triple sec, de citron vert, et de jus de canneberge.",
+        "nb_person": 8,
+        "recipe": [
+            "1. Réalisez cette recette au shaker.",
+            "2. Frapper les ingrédients avec des glaçons et verser dans le verre en filtrant.",
+            "3. Servir dans un verre de type 'verre à Martini'.",
+            "4. Ajouter une rondelle de citron."
+        ],
+        "ingredients": {
+            "Vodka": "32cl",
+            "Triple sec (Cointreau)": "16cl",
+            "Jus de cramberry": "16cl",
+            "Jus de citron vert": "8cl",
+            "Citron": "1 rondelle par verre"
+        }
+    },
+    {
+        "name": "Caipirinha",
+        "description": "La caïpirinha est un cocktail brésilien préparé à base de cachaça, de sucre Blanc et de citron vert. Il a été créé par des paysans dont il tirerait l'origine de son nom.",
+        "nb_person": 1,
+        "recipe": [
+            "1. Dans un shaker, mélanger tous les ingrédients à de la glace pilée.",
+            "2. Bien agiter. Passer dans un verre à whisky rafraîchi, sur glaçons."
+        ],
+        "ingredients": {
+            "Jus de citron": "15ml",
+            "Sucre cristallisé": "1 cuillère à soupe",
+            "Cachaça": "60ml",
+            "Citron vert": "1"
+        }
+    },
+    {
+        "name": "Long Island",
+        "description": "Le Long Island iced tea ou LIIT ou Long Island est un cocktail à base de tequila, gin, vodka, rhum, liqueur d'oranges, et cola. Ce cocktail officiel de l'IBA tient son nom de sa ressemblance à du thé glacé.",
+        "nb_person": 1,
+        "recipe": [
+            "1. Réaliser la recette du Long Island Iced Tea au shaker.",
+            "2. Mettre tous les ingrédients sauf le coca dans un shaker.",
+            "3. Ajouter des glaçons et remuer.",
+            "4. Servir dans un verre « tumbler » avec des glaçons.",
+            "5. Topper avec le coca.",
+            "6. Garnir avec une tranche de citron."
+        ],
+        "ingredients": {
+            "Gin": "15ml",
+            "Vodka": "15ml",
+            "Rhum blanc": "15ml",
+            "Triple sec (Cointreau)": "15ml",
+            "Tequila": "15ml",
+            "Jus de citron": "25ml",
+            "Coca-Cola": "Fin de verre"
+        }
+    },
+    {
+        "name": "Sangria",
+        "description": "La sangria est une boisson alcoolisée aux origines controversées. Selon certaines sources, la sangria ne proviendrait pas d'Espagne, mais plutôt des Antilles ou d’Amérique du Sud. C'est au XIXᵉ siècle que les premières références à cette boisson sont faites, toutes sur le continent américain.",
+        "nb_person": 6,
+        "recipe": [
+            "1. Lavez et séchez les agrumes. Coupez-les en fines rondelles puis détaillez-les en morceaux sans déchirer la pulpe. Fendez et grattez la gousse de vanille.",
+            "2. Dans un joli broc, versez le vin rouge, le Cointreau et le jus d'orange. Agrémentez de vanille et de cannelle, parsemez de sucre en poudre.",
+            "3. Ajoutez les quartiers de citron et d'orange. Mélangez délicatement à l'aide d'une louche. Réservez la préparation au frais au moins 2 h afin que les fruits macèrent dans le vin.",
+            "4. Au moment de servir, versez la limonade bien fraîche dans la sangria."
+        ],
+        "ingredients": {
+            "Bouteille de vin rouge": "1",
+            "Limonade": "25cl",
+            "Jus d'orange": "20cl",
+            "Triple sec (Cointreau)": "10cl",
+            "Oranges": "2",
+            "Citron": "1",
+            "Sucre en poudre": "50g",
+            "Cannelle": "0,5 cuillère à café",
+            "Gousse de vanille": "1"
+        }
+    },
+    {
+        "name": "Tequila Sunrise",
+        "description": "Le tequila sunrise est un cocktail à base de tequila, de jus d'orange, et de grenadine qui au fond du verre donne l'effet d'un lever de soleil ce qui a inspiré le nom de la boisson.",
+        "nb_person": 1,
+        "recipe": [
+            "1. Réalisez cette recette directement dans le verre.",
+            "2. Verser la tequila sur des glaçons dans le verre. Compléter avec le jus d'orange et remuer. Versez doucement le sirop de grenadine dans le verre pour que celui-ci tombe au fond. Donnez alors un petit coup de cuillère pour affiner le dégradé si nécessaire.",
+            "3. Servir dans un verre de type 'tumbler'.",
+            "4. Ajouter une rondelle d'orange."
+        ],
+        "ingredients": {
+            "Tequila": "6cl",
+            "Jus d'orange": "12cl",
+            "Sirop de grenadine": "2cl",
+            "Orange": "1 rondelle par verre"
+        }
+    },
+    {
+        "name": "Cuba libre",
+        "description": "Le Cuba libre, ou rhum-Coca, ou rum and Coke aux États-Unis et au Canada anglophone et francophone, ou cuba en Espagne, et roncola au Mexique, est un cocktail officiel de l'IBA, à base de rhum, citron vert, et cola.",
+        "nb_person": 1,
+        "recipe": [
+            "1. Réalisez cette recette directement dans le verre.",
+            "2. Verser citron et rhum sur des glaçons. Compléter avec le coca cola. Remuer lentement.",
+            "3. Servir dans un verre de type 'tumbler'.",
+            "4. Décorer d'une tranche de citron vert."
+        ],
+        "ingredients": {
+            "Rhum cubain": "6cl",
+            "Jus de citron vert": "4cl",
+            "Coca-Cola": "15cl"
+        }
+    },
+    {
+        "name": "Daiquiri",
+        "description": "Le daïquiri est un cocktail dont les ingrédients principaux sont le rhum blanc, le jus de lime et le sucre. Il est originaire de Cuba.",
+        "nb_person": 8,
+        "recipe": [
+            "1. Réalisez cette recette au shaker.",
+            "2. Mélanger les ingrédients et frapper avec des glaçons.",
+            "3. Servir dans un verre de type 'verre à martini'.",
+            "4. Décorer d'une tranche de citron vert sur le bord du verre et d'un morceau de citron vert dans le verre."
+        ],
+        "ingredients": {
+            "Rhum cubain": "32cl",
+            "Jus de citron vert": "16cl",
+            "Sirop de sucre de canne": "8cl",
+            "Citron vert": "2 tranches par verre"
+        }
+    },
+    {
+        "name": "B-52",
+        "description": "Le B-52 est un cocktail composé en proportions égales de Kahlua, de Baileys et de Cointreau. Lorsqu'il est correctement préparé, ses ingrédients se séparent en trois couches visibles : la liqueur de café en bas, puis le Bailey's et enfin le Cointreau. Cette séparation est due aux densités relatives de ses ingrédients.",
+        "nb_person": 1,
+        "recipe": [
+            "1. Verser le kahlua dans le fond du shooter.",
+            "2. Ajouter le baileys doucement afin de former un second étage. Vous pouvez utiliser une petite cuillère pour éviter les liquides de se méanger.",
+            "3. De la même manière, verser le grand manier sur le dessus de votre verre. Servir avec un agitateur."
+        ],
+        "ingredients": {
+            "Baileys": "2cl",
+            "Grand Marnier": "2cl",
+            "Kahlua": "2cl"
+        }
+    },
+    {
+        "name": "Soupe champenoise",
+        "description": "La soupe champenoise est un apéritif traditionnel de la Champagne, dérivé de la soupe angevine.",
+        "nb_person": 6,
+        "recipe": [
+            "1. Mélanger les 3 derniers ingrédients ensemble.",
+            "2. Au moment de servir, ajouter le vin pétillant bien frais."
+        ],
+        "ingredients": {
+            "Vin pétillant": "75cl",
+            "Sucre de canne": "5cl",
+            "Citron vert (son jus)": "10cl",
+            "Triple sec (Cointreau)": "10cl"
+        }
+    },
+    {
+        "name": "Marquisette",
+        "description": "La marquisette est une boisson alcoolisée notamment présente dans le sud-est de la France, dans les départements de l'Ardèche, du Gard, de la Haute-Loire, des Hautes-Alpes, de la Drôme, de la Lozère et de l'Isère. Elle est consommée dans les bals populaires.",
+        "nb_person": 10,
+        "recipe": [
+            "1. La veille au soir ou au plus tard le matin, lavez et coupez les citrons jaunes et verts en fins quartiers, mettez-les dans le fond d'un saladier, arrosez-les avec le vin blanc sec, le sucre et le Pulco citron, puis mélangez.",
+            "2. Laissez les agrumes macérer jusqu'au soir et n'oubliez pas de mettre le Perrier et le crémant au frais.",
+            "3. À l'heure de l'apéritif, ajoutez le crémant et le Perrier, puis servez le cocktail à la louche, dans des verres à cocktail aux bords 'givrés' de citron et de sucre."
+        ],
+        "ingredients": {
+            "Citrons vert et jaunes": "500g",
+            "Sucre": "500g",
+            "Vin blanc sec": "1L",
+            "Perrier": "1L",
+            "Crément": "1L",
+            "Pulco citron": "1/4 de la bouteille"
+        }
+    },
+    {
+        "name": "Negroni",
+        "description": "Le Negroni est un cocktail à base de gin, de vermouth rouge et de Campari. Il a été inventé à Florence en 1919.",
+        "nb_person": 1,
+        "recipe": [
+            "1. Dans un verre à whisky (lowball), déposer 125 ml (1/2 tasse) de glaçons.",
+            "2. Ajouter 30 ml (1 oz) de gin, 30 ml (1 oz) de vermouth rouge, 30 ml (1 oz) de Campari et 1/2 tranche d’orange."
+        ],
+        "ingredients": {
+            "Glaçons": "125ml",
+            "Gin": "30ml",
+            "Vermouth rouge": "30ml",
+            "Campari": "30ml",
+            "Orange": "1/2 tranche"
+        }
+    }
+]

@@ -1,0 +1,64 @@
+name: isitaperotime
+description: "Is it Apero Time? - L'app qui te dit quoi boire et quand!"
+publish_to: 'none'
+version: 2.0.0+2
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management
+  flutter_riverpod: ^2.6.1
+
+  # Navigation
+  go_router: ^14.8.1
+
+  # Map
+  flutter_map: ^7.0.2
+  flutter_map_marker_cluster: ^1.4.0
+  latlong2: ^0.9.1
+
+  # Location
+  geolocator: ^13.0.2
+
+  # HTTP (for Overpass API)
+  http: ^1.2.2
+
+  # Local storage
+  shared_preferences: ^2.3.4
+
+  # UI
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  flutter_animate: ^4.5.2
+
+  # URL & email
+  url_launcher: ^6.3.1
+
+  # Utils
+  intl: ^0.19.0
+  json_annotation: ^4.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  build_runner: ^2.4.13
+  json_serializable: ^6.9.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/cocktails.json
+    - assets/data/drinking_games.json
+    - assets/data/osm-fr-bars.json
+    - assets/images/

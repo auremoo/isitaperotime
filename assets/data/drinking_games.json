@@ -1,0 +1,156 @@
+[
+  {
+    "id": "never_have_i_ever",
+    "name": "Je n'ai jamais",
+    "description": "Chacun son tour, annoncez quelque chose que vous n'avez jamais fait. Ceux qui l'ont fait boivent !",
+    "icon": "\ud83d\ude48",
+    "minPlayers": 3,
+    "maxPlayers": 20,
+    "category": "prompts",
+    "rules": [
+      "Asseyez-vous en cercle avec vos verres.",
+      "A tour de r\u00f4le, dites 'Je n'ai jamais...' suivi d'une action.",
+      "Tous ceux qui ont d\u00e9j\u00e0 fait cette action doivent boire une gorg\u00e9e.",
+      "Si personne ne boit, c'est celui qui a propos\u00e9 qui boit."
+    ],
+    "cards": [
+      {"text": "Je n'ai jamais envoy\u00e9 un message \u00e0 la mauvaise personne", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais fait semblant d'\u00eatre malade pour ne pas aller travailler", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais stalk\u00e9 un ex sur les r\u00e9seaux sociaux", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais menti sur mon \u00e2ge", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais mang\u00e9 un kebab \u00e0 4h du matin", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais chant\u00e9 sous la douche", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais oubli\u00e9 le pr\u00e9nom de quelqu'un juste apr\u00e8s les pr\u00e9sentations", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais fait du stop", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais dans\u00e9 sur une table", "action": "drink", "sips": 2},
+      {"text": "Je n'ai jamais vomi \u00e0 cause de l'alcool", "action": "drink", "sips": 2},
+      {"text": "Je n'ai jamais rat\u00e9 un avion ou un train", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais fait un karaok\u00e9", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais menti lors d'un entretien d'embauche", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais pleur\u00e9 devant un film", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais dormi en cours ou en r\u00e9union", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais fait de pari stupide", "action": "drink", "sips": 2},
+      {"text": "Je n'ai jamais oubli\u00e9 un anniversaire important", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais envoy\u00e9 un mail professionnel avec une faute embarrassante", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais fait semblant de conna\u00eetre une chanson", "action": "drink", "sips": 1},
+      {"text": "Je n'ai jamais regard\u00e9 une s\u00e9rie enti\u00e8re en un week-end", "action": "drink", "sips": 1}
+    ]
+  },
+  {
+    "id": "kings",
+    "name": "Jeu du Roi",
+    "description": "Le classique jeu de cartes \u00e0 boire ! Chaque carte a une r\u00e8gle sp\u00e9cifique.",
+    "icon": "\ud83c\udccf",
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "category": "cards",
+    "rules": [
+      "Placez un verre au centre et \u00e9talez un jeu de cartes autour.",
+      "Chaque joueur tire une carte \u00e0 tour de r\u00f4le.",
+      "Chaque valeur de carte correspond \u00e0 une action sp\u00e9cifique.",
+      "Le joueur qui tire le 4e Roi verse dans le verre central et le boit !"
+    ],
+    "cards": [
+      {"text": "As - Cascade ! Tout le monde boit en cha\u00eene.", "action": "drink", "sips": 1},
+      {"text": "2 - C'est pour toi ! D\u00e9signe quelqu'un qui boit.", "action": "give", "sips": 2},
+      {"text": "3 - C'est pour moi ! Tu bois.", "action": "drink", "sips": 1},
+      {"text": "4 - Les filles boivent !", "action": "drink", "sips": 1},
+      {"text": "5 - Les gars boivent !", "action": "drink", "sips": 1},
+      {"text": "6 - Pouce ! Le dernier \u00e0 poser son pouce sur la table boit.", "action": "challenge", "sips": 1},
+      {"text": "7 - Mot interdit ! Choisis un mot que personne ne doit prononcer.", "action": "rule", "sips": 2},
+      {"text": "8 - Bin\u00f4me ! Choisis un partenaire de boisson.", "action": "give", "sips": 1},
+      {"text": "9 - Rime ! Dis un mot, on rime. Le premier qui bloque boit.", "action": "challenge", "sips": 2},
+      {"text": "10 - Th\u00e8me ! Choisis un th\u00e8me. Le premier qui bloque boit.", "action": "challenge", "sips": 2},
+      {"text": "Valet - Nouvelle r\u00e8gle ! Invente une r\u00e8gle pour le reste de la partie.", "action": "rule", "sips": 0},
+      {"text": "Dame - Question ! Pose une question. Le premier qui r\u00e9pond boit.", "action": "challenge", "sips": 1},
+      {"text": "Roi - Verse dans le verre central ! Le 4\u00e8me Roi le boit.", "action": "drink", "sips": 3}
+    ]
+  },
+  {
+    "id": "truth_or_dare",
+    "name": "Action ou V\u00e9rit\u00e9",
+    "description": "Le grand classique ! V\u00e9rit\u00e9 embarrassante ou d\u00e9fi rigolo ?",
+    "icon": "\ud83c\udfaf",
+    "minPlayers": 2,
+    "maxPlayers": 15,
+    "category": "prompts",
+    "rules": [
+      "\u00c0 tour de r\u00f4le, choisissez Action ou V\u00e9rit\u00e9.",
+      "Si vous refusez de r\u00e9pondre ou de faire l'action, vous buvez !",
+      "L'app vous propose des questions et des d\u00e9fis."
+    ],
+    "cards": [
+      {"text": "V\u00c9RIT\u00c9 : Quel est ton plus grand secret honteux ?", "action": "drink", "sips": 2},
+      {"text": "ACTION : Imite quelqu'un dans la pi\u00e8ce jusqu'\u00e0 ce qu'on devine qui c'est.", "action": "challenge", "sips": 2},
+      {"text": "V\u00c9RIT\u00c9 : Quelle est la derni\u00e8re chose que tu as cherch\u00e9e sur Google ?", "action": "drink", "sips": 1},
+      {"text": "ACTION : Fais 10 pompes ou bois 3 gorg\u00e9es.", "action": "challenge", "sips": 3},
+      {"text": "V\u00c9RIT\u00c9 : Quel est le pire rendez-vous que tu as eu ?", "action": "drink", "sips": 1},
+      {"text": "ACTION : Envoie un message embarrassant \u00e0 la derni\u00e8re personne de tes contacts.", "action": "challenge", "sips": 3},
+      {"text": "V\u00c9RIT\u00c9 : Si tu devais embrasser quelqu'un ici, qui ?", "action": "drink", "sips": 2},
+      {"text": "ACTION : Parle avec un accent pendant les 3 prochains tours.", "action": "rule", "sips": 0},
+      {"text": "V\u00c9RIT\u00c9 : Quel est ton guilty pleasure musical ?", "action": "drink", "sips": 1},
+      {"text": "ACTION : Fais une d\u00e9claration d'amour \u00e0 la personne \u00e0 ta gauche.", "action": "challenge", "sips": 2},
+      {"text": "V\u00c9RIT\u00c9 : Quel est le mensonge le plus gros que tu aies dit ?", "action": "drink", "sips": 2},
+      {"text": "ACTION : Danse pendant 30 secondes sans musique.", "action": "challenge", "sips": 1},
+      {"text": "V\u00c9RIT\u00c9 : Quelle est la chose la plus ch\u00e8re que tu aies cass\u00e9e ?", "action": "drink", "sips": 1},
+      {"text": "ACTION : Fais le plus beau compliment possible \u00e0 chaque joueur.", "action": "challenge", "sips": 0},
+      {"text": "V\u00c9RIT\u00c9 : Quel est ton plus gros regret ?", "action": "drink", "sips": 2},
+      {"text": "ACTION : Mime un film c\u00e9l\u00e8bre, les autres doivent deviner.", "action": "challenge", "sips": 1}
+    ]
+  },
+  {
+    "id": "piccolo",
+    "name": "Piccolo",
+    "description": "Des d\u00e9fis fous et des questions embarrassantes avec les pr\u00e9noms des joueurs !",
+    "icon": "\ud83c\udf89",
+    "minPlayers": 3,
+    "maxPlayers": 12,
+    "category": "prompts",
+    "rules": [
+      "Entrez les pr\u00e9noms de tous les joueurs.",
+      "L'app g\u00e9n\u00e8re des d\u00e9fis personnalis\u00e9s avec vos pr\u00e9noms.",
+      "Impossible de refuser ? Vous buvez le double !"
+    ],
+    "cards": [
+      {"text": "{player} doit boire 2 gorg\u00e9es !", "action": "drink", "sips": 2},
+      {"text": "{player} choisit quelqu'un qui boit 3 gorg\u00e9es.", "action": "give", "sips": 3},
+      {"text": "{player} raconte son moment le plus embarrassant de la semaine.", "action": "challenge", "sips": 2},
+      {"text": "Le dernier \u00e0 lever la main boit ! 1, 2, 3...", "action": "challenge", "sips": 1},
+      {"text": "{player} doit faire rire quelqu'un en 30 secondes ou boit 3 gorg\u00e9es.", "action": "challenge", "sips": 3},
+      {"text": "Tout le monde boit sauf {player} !", "action": "drink", "sips": 1},
+      {"text": "{player} et {player2} font un bras de fer. Le perdant boit.", "action": "challenge", "sips": 2},
+      {"text": "{player} doit dire 3 compliments \u00e0 la personne \u00e0 sa gauche.", "action": "challenge", "sips": 0},
+      {"text": "{player} donne son t\u00e9l\u00e9phone \u00e0 {player2} pendant 1 minute.", "action": "challenge", "sips": 3},
+      {"text": "{player} fait une battle de danse avec {player2}. Le groupe vote, le perdant boit.", "action": "challenge", "sips": 2},
+      {"text": "Si {player} peut nommer 5 cocktails en 10 secondes, tout le monde boit. Sinon, {player} boit double.", "action": "challenge", "sips": 2},
+      {"text": "{player} doit raconter une blague. Si personne ne rit, {player} boit 3 gorg\u00e9es.", "action": "challenge", "sips": 3},
+      {"text": "{player} choisit : boire 2 gorg\u00e9es ou r\u00e9v\u00e9ler le dernier message envoy\u00e9.", "action": "drink", "sips": 2},
+      {"text": "Tour de table ! Chacun dit un truc cool sur {player}. {player} boit \u00e0 chaque compliment.", "action": "drink", "sips": 1},
+      {"text": "{player} imite {player2}. Si c'est convaincant, {player2} boit.", "action": "challenge", "sips": 2}
+    ]
+  },
+  {
+    "id": "flip_cup",
+    "name": "Flip Cup",
+    "description": "Course par \u00e9quipes ! Buvez votre verre et retournez-le !",
+    "icon": "\ud83c\udfc6",
+    "minPlayers": 4,
+    "maxPlayers": 20,
+    "category": "challenges",
+    "rules": [
+      "Formez deux \u00e9quipes face \u00e0 face.",
+      "Chaque joueur a un gobelet rempli devant lui.",
+      "Au signal, le premier joueur de chaque \u00e9quipe boit son verre.",
+      "Posez le gobelet au bord de la table et retournez-le d'une pichenette.",
+      "Une fois r\u00e9ussi, le joueur suivant commence. Premi\u00e8re \u00e9quipe \u00e0 finir gagne !",
+      "L'\u00e9quipe perdante boit un verre suppl\u00e9mentaire."
+    ],
+    "cards": [
+      {"text": "Manche classique ! Premi\u00e8re \u00e9quipe \u00e0 finir gagne.", "action": "challenge", "sips": 1},
+      {"text": "Manche \u00e0 l'aveugle ! Les yeux ferm\u00e9s.", "action": "challenge", "sips": 2},
+      {"text": "Manche main faible ! Utilisez votre main non-dominante.", "action": "challenge", "sips": 1},
+      {"text": "Manche double ! Chaque joueur doit retourner 2 gobelets.", "action": "challenge", "sips": 2},
+      {"text": "Manche inversée ! Commencez par le dernier joueur.", "action": "challenge", "sips": 1}
+    ]
+  }
+]
