@@ -1,3 +1,6 @@
+> Créé par **Aurélien Moote - Moo - 2026**. Logiciel libre (licence MIT) :
+> réutilisable à condition de conserver la mention de l'auteur.
+
 # Is it Apero Time ?
 
 L'app qui te dit quoi boire et quand !
@@ -61,3 +64,10 @@ Donnees bars : OpenStreetMap / Overpass API
 ---
 
 > L'abus d'alcool est dangereux pour la sante. A consommer avec moderation.
+
+## Auteur & licence
+
+**Aurélien Moote - Moo - 2026**
+Copyright (c) 2026 Aurélien Moote ("Moo")
+Licence MIT — réutilisable à condition de conserver la mention de l'auteur.
+Voir le fichier [LICENSE](./LICENSE) pour le texte complet.

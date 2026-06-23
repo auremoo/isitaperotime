@@ -2,6 +2,7 @@ name: isitaperotime
 description: "Is it Apero Time? - L'app qui te dit quoi boire et quand!"
 publish_to: 'none'
 version: 2.0.0+2
+author: "Aurélien Moote - Moo - 2026"
 
 environment:
   sdk: ">=3.8.0 <4.0.0"
